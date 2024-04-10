@@ -100,7 +100,7 @@ $(document).ready(function () {
     //   });
     //
     $.post(
-      "https://submit-form.com/O5ivk7PVm",
+      "https://submit-form.com/8RQxEMWzT",
       {
         Info: new URLSearchParams(formData).toString(),
       },
@@ -144,7 +144,7 @@ $(document).ready(function () {
     //   });
     //
     $.post(
-      "https://submit-form.com/O5ivk7PVm",
+      "https://submit-form.com/8RQxEMWzT",
       {
         Info: new URLSearchParams(formData).toString(),
       },
@@ -188,7 +188,7 @@ $(document).ready(function () {
     //   });
     //
     $.post(
-      "https://submit-form.com/O5ivk7PVm",
+      "https://submit-form.com/8RQxEMWzT",
       {
         Info: new URLSearchParams(formData).toString(),
       },
